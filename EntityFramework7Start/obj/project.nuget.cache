@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HzBpIakvKzevH6UxD6rj6o0wnBj82v+ueFNH+/oDY5SqXG1/hEzR6Y2ce7vZFazNOhw/i8QHaKi2a+Mnqxx9xQ==",
+  "dgSpecHash": "mqy70QWNkYTHcoWDVnu86OVbicUHUsiusE3Eox//tu3w51wfFMVt9/PilesWH3i26R9VB9mqb2B9JaR0Fv7DHg==",
   "success": true,
-  "projectFilePath": "/Users/josephlinares/Repos/entity-framework-7-start/EntityFramework7Start/EntityFrameWork7Start.csproj",
+  "projectFilePath": "/Users/josephlinares/Repos/entity-framework-7-start/EntityFrameWork7Start/EntityFrameWork7Start.csproj",
   "expectedPackageFiles": [
     "/Users/josephlinares/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
     "/Users/josephlinares/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.1/automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

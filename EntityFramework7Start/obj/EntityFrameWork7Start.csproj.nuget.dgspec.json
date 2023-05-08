@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/josephlinares/Repos/entity-framework-7-start/EntityFramework7Start/EntityFrameWork7Start.csproj": {}
+    "/Users/josephlinares/Repos/entity-framework-7-start/EntityFrameWork7Start/EntityFrameWork7Start.csproj": {}
   },
   "projects": {
-    "/Users/josephlinares/Repos/entity-framework-7-start/EntityFramework7Start/EntityFrameWork7Start.csproj": {
+    "/Users/josephlinares/Repos/entity-framework-7-start/EntityFrameWork7Start/EntityFrameWork7Start.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/josephlinares/Repos/entity-framework-7-start/EntityFramework7Start/EntityFrameWork7Start.csproj",
+        "projectUniqueName": "/Users/josephlinares/Repos/entity-framework-7-start/EntityFrameWork7Start/EntityFrameWork7Start.csproj",
         "projectName": "EntityFrameWork7Start",
-        "projectPath": "/Users/josephlinares/Repos/entity-framework-7-start/EntityFramework7Start/EntityFrameWork7Start.csproj",
+        "projectPath": "/Users/josephlinares/Repos/entity-framework-7-start/EntityFrameWork7Start/EntityFrameWork7Start.csproj",
         "packagesPath": "/Users/josephlinares/.nuget/packages/",
-        "outputPath": "/Users/josephlinares/Repos/entity-framework-7-start/EntityFramework7Start/obj/",
+        "outputPath": "/Users/josephlinares/Repos/entity-framework-7-start/EntityFrameWork7Start/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/josephlinares/.nuget/NuGet/NuGet.Config"
