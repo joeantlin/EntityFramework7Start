@@ -11,7 +11,7 @@ namespace EntityFrameWork7Start.Data
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             base.OnConfiguring(optionsBuilder);
-            optionsBuilder.UseSqlServer("Server=localhost;Database=LOSScheduler;Trusted_Connection=true;TrustServerCertificate=true;Integrated Security=false;User=sa; Password=Bwabwa11");
+            optionsBuilder.UseSqlServer("");
         }
 
         public DbSet<SuperHero> SuperHero => Set<SuperHero>();
